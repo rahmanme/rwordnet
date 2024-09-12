@@ -1,7 +1,7 @@
 require 'rake'
 require './lib/rwordnet/version'
 
-Gem::Specification.new "rwordnet", WordNet::VERSION do |s|
+Gem::Specification.new "rwordnet2", WordNet::VERSION do |s|
   s.summary = "A pure Ruby interface to the WordNet database"
   s.authors = ["Trevor Fountain", "Wolfram Sieber", "Michael Grosser"]
   s.email = "trevor@texasexpat.net"
